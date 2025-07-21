@@ -1,4 +1,4 @@
-# Template Incial
+# DIO - Desafio Java Básico
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/meu-template-inicial?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Zev07/meu-template-inicial?style=for-the-badge)
@@ -6,57 +6,31 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Zev07/meu-template-inicial?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Zev07/meu-template-inicial?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
-
 ### Sobre o projeto
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Este projeto é a resolução de um desafio proposto durante o aprendizado de Java da plataforma DIO, onde o intuito é testar o conheço base da sintaxe da linguagem.
 
 ### Tecnologias Utilizadas
 
-### Ajustes e melhorias
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+###
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Lógica de programação e POO;
+- Conhecimentos básicos em Java;
+- Computador com SO de sua preferência(Windows, Linux, Mac OS);
+- IDE (Visual Studio Code, Eclipse, etc);
 
-## 🚀 Instalando <nome_do_projeto>
+## ☕ Projeto Educacional
+> [!NOTE]
+> Esse projeto possui apenas a intenção de aprendizado e estudo, se desejar usar-lo com intuito de obter conhecimento, sinta-se a vontade.
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-
-```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
