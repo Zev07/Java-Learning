@@ -8,7 +8,10 @@
 
 ### Sobre o projeto
 > Este projeto é a resolução de um desafio proposto durante o aprendizado de Java da plataforma DIO, onde o intuito é testar o conheço base da sintaxe da linguagem.
-[Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+<br>
+
+[Desafio 1 - Sintaxe](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+| [Desafio 2 - Controle de flux](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
 
 ### Tecnologias Utilizadas
 
