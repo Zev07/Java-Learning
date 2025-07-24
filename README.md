@@ -1,4 +1,4 @@
-# DIO - Desafio Java Básico
+# DIO - Aprendizado Java
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/DIO-Basic-Java-Challenge?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Zev07/DIO-Basic-Java-Challenge?style=for-the-badge)
@@ -7,8 +7,17 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Zev07/DIO-Basic-Java-Challenge?style=for-the-badge)
 
 ### Sobre o projeto
-> Este projeto é a resolução de um desafio proposto durante o aprendizado de Java da plataforma DIO, onde o intuito é testar o conheço base da sintaxe da linguagem.
-[Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+> Este repositório foi feita para enviar as resoluçôes dos desafios e exercícios proposto durante o aprendizado de Java da plataforma DIO, onde o intuito é praticar e testar o conhecimento na linguagem.
+<br>
+
+[Desafio 1 - Sintaxe](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+| [Desafio 2 - Controle de flux](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+
+### Seção de Exercicios
+>Nesse repositório também se encontra exercícios respectivos a cada etapa da aprendizagem, ele seram dividos em suas prórias seções/pasta, deixando abaixo a fonte das perguntas respetivas a cada um.
+<br>
+
+[Exercícios - Fundamentos da linguagem](https://github.com/digitalinnovationone/exercicios-java-basico/blob/main/exercicios/1%20-%20Fundamentos%20da%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20Java.md) | [Exercícios - Estruturas de controle](https://github.com/digitalinnovationone/exercicios-java-basico/blob/main/exercicios/2%20-%20Estruturas%20de%20Controle%20em%20Java.M) | [Exercícios - Abstração com Classes e Encapsulamento](https://github.com/digitalinnovationone/exercicios-java-basico/blob/main/exercicios/3%20-%20Java%20e%20a%20Arte%20da%20Abstra%C3%A7%C3%A3o%20com%20Classes%20e%20Encapsulamento.md)
 
 ### Tecnologias Utilizadas
 
