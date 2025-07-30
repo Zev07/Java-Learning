@@ -27,7 +27,6 @@ public class ContaBancaria implements OperacoesBancarias {
         return this.chequeEspecialUsado > 0;
     }
 
-    // ✅ Novo método privado para quitar o cheque especial
     private double quitarChequeEspecial(double valor) {
         if (this.chequeEspecialUsado <= 0) {
             return valor; // nada a quitar
