@@ -9,7 +9,7 @@
 <br>
 
 [Desafio 1 - Sintaxe](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
-| [Desafio 2 - Controle de flux](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+| [Desafio 2 - Controle de fluxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
 
 ### Seção de Exercicios
 >Nesse repositório também se encontra exercícios respectivos a cada etapa da aprendizagem, ele seram dividos em suas prórias seções/pasta, deixando abaixo a fonte das perguntas respetivas a cada um.
