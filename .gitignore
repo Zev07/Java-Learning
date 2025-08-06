@@ -1,2 +1,10 @@
 Oracle_JDK-24/
 .vscode/
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
+build/
