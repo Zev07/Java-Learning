@@ -1,3 +1,8 @@
+# Desafio POO - Modelagem de Componente iPhone
+
+Este é o diagrama UML que representa a modelagem das funcionalidades do iPhone.
+
+```mermaid
 classDiagram
     direction LR
     class Iphone
