@@ -1,11 +1,11 @@
-# DIO - Aprendizado Java
+#Aprendizado Java
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/DIO-Basic-Java-Challenge?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Zev07/DIO-Basic-Java-Challenge?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Zev07/DIO-Basic-Java-Challenge?style=for-the-badge)
 
 ### Sobre o projeto
-> Este repositório foi feita para enviar as resoluçôes dos desafios e exercícios proposto durante o aprendizado de Java da plataforma DIO, onde o intuito é praticar e testar o conhecimento na linguagem.
+> Este repositório foi feita para enviar as resoluçôes dos desafios e exercícios proposto durante o aprendizado de Java, onde o intuito é praticar e testar o conhecimento na linguagem.
 <br>
 
 Material fonte dos desafios:
